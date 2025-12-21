@@ -12,4 +12,4 @@ func main() {
 	fmt.Println("Я домашка")
 }
 
-// first touch
+// first touch, second t
